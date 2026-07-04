@@ -9,7 +9,7 @@
   "variable": [
     {
       "key": "baseUrl",
-      "value": "https://your-render-api.onrender.com"
+      "value": "https://cinetrack-server.onrender.com"
     },
     {
       "key": "movieId",
